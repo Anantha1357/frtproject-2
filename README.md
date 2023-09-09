@@ -1,7 +1,7 @@
 #  ✨ Importance of Good hygiene 😃
 
 
-### This website on the importance of Good hygiene has been developed for Future Ready Talent Internship program launched by Microsoft, Future Skills Prime, Quess, Github and EY.
+### This website on the importance of Good hygiene has been developed for Future Ready Talent Internship program launched by Microsoft, Future Skills Prime, Quess, Github.
 
 
 **Project URL** - https://mango-bush-0272cd300.3.azurestaticapps.net 
